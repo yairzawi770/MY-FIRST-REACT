@@ -1,0 +1,18 @@
+.movie{
+  width: 300px;
+  height: 200px;
+  background-color: lightblue;
+  float: left;
+  margin: 10px;
+}
+
+.mysquare{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(182, 173, 230);
+  margin: 10px;
+}
+
+.movie img{
+  width: 100%;
+}
